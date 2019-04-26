@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
  * @author sudha
  *
  */
-public class MudWallsMaxHeight {
+public class MudWallMaxHgt {
 
 	/**
 	 * @param args
